@@ -63,3 +63,6 @@ elif counters_numer >= 40 and counters_numer <=50:
        print(f"Your score is {counters_numer}, you are alright together.")
 else:
        print(f"Your score is {counters_numer}")
+#hacer 4 contadores que verificaran las letras por ej. true --> name1 y name 2 cada uno
+#con sus contadores para que al final de haga la suma, luego otras 2 para la palabra love --> name1 y name2
+#counter1, counter2, counter3, counter4
