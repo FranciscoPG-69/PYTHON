@@ -22,7 +22,6 @@ print('''
 print("Bienvenido a la mazmorra del dragon rojo.")
 print("tu mision es encontrar la guarida del dragón y tomar su botín") 
 
-#https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload
 
 #Write your code below this line 👇
 decision = input("Entras a la mazmorra y lo primero que ves son dos caminos divididos, uno esta completamente oscuro el otro tiene una luz naranja al fondo, cual eliges ? oscuro o naranja\n")
